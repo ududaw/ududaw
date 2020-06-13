@@ -17,7 +17,7 @@ body {
 }
 
 #container {
-    max-width: 600px;
+    max-width: 500px;
     margin: 15px auto;
 
 }
@@ -51,7 +51,7 @@ h1 {
 }
 
 #colorDisplay {
-    font-size: 200%;
+    font-size: 150%;
 }
 
 button {
@@ -63,7 +63,7 @@ button {
     color: steelblue;
     font-weight: bold;
     letter-spacing: 1px;
-    font-size: inherit;
+    font-size: 80%;
     outline: none;
     transition: all .5s;
     -webkit-transition: all 0.5s;
